@@ -1,0 +1,1 @@
+Hello dear , I hope this code will help you to connect  with MySQL database or firebase or MongoDB database. This is in PHP language only.
